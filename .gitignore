@@ -1,0 +1,17 @@
+# filepath: [.gitignore](http://_vscodecontentref_/0)
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignore virtual environment folders
+venv/
+Include/
+Lib/
+Scripts/
+share/
+# Ignore environment variable files
+.env
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Ignore data files
+*.csv
