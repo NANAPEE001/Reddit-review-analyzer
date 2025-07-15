@@ -1,4 +1,4 @@
-Reddit Comment Analyzer
+#Reddit Comment Analyzer
 This project analyzes Reddit comments using Azure Cognitive Services and Azure OpenAI. It fetches comments from a Reddit post, performs sentiment analysis, extracts key phrases, and generates AI-powered responses to each comment.
 
 Features
